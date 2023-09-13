@@ -2,9 +2,9 @@
 - Chang Liu
   
 # Links
-- [Demo 1](https://www.shadertoy.com/view/mlBBWd)
-- [Demo 2](https://www.shadertoy.com/view/cljBWt)
-- [Demo 3](https://www.shadertoy.com/view/ct2fDt)
+- [Flower 1](https://www.shadertoy.com/view/mlBBWd)
+- [Flower 2](https://www.shadertoy.com/view/cljBWt)
+- [Custom Flower](https://www.shadertoy.com/view/ct2fDt)
 
 
 # Lab01: Toolbox Functions
