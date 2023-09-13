@@ -1,8 +1,10 @@
 # Name
-  Tianyi Xiao
+  ### Tianyi Xiao
 # Link
   [Pulsing Flower](https://www.shadertoy.com/view/mlSfDt)
+  
   [Spinning Flower](https://www.shadertoy.com/view/dlBBDd)
+  
   [My Flower](https://www.shadertoy.com/view/ctjfDt)
 
 # Lab01: Toolbox Functions
