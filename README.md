@@ -2,6 +2,14 @@
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
+Partners: Will Cai / Cindy Xu
+
+Pulsing Flower: https://www.shadertoy.com/view/cd3yzn
+
+Spinning Flower: https://www.shadertoy.com/view/Dd3yzn
+
+Custom Flower: https://www.shadertoy.com/view/Dd3czn
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Flower Puzzle](https://www.shadertoy.com/view/NsVBzy).
