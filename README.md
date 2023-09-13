@@ -1,6 +1,14 @@
 # Lab01: Toolbox Functions
-
 Let's practice using some tool box functions! You may work with a partner for this one.
+
+# Team Members
+- Tongwei Dai
+- Shixuan Fang
+
+# Shadertoy Links
+- [Puzzle1](https://www.shadertoy.com/view/dlSfDt)
+- [Puzzle2](https://www.shadertoy.com/view/mlBfDd)
+- [Custom Flower](https://www.shadertoy.com/view/mt2BWt)
 
 # Setup 
 
