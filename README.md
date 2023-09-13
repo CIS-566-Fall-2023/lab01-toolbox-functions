@@ -24,3 +24,7 @@ Do your best to replicate the following simple graphics:
 - In the README, include the names of both your team members
 - In the README, create a link to your shader toy solutions for these three prompts
 - Make sure all three of your shadertoys are set to UNLISTED or PUBLIC (so we can see them!)
+
+Team Members: Rachel Lin, Rain Yan
+
+Shadertoy link: https://www.shadertoy.com/view/dlSfWd
