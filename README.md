@@ -6,4 +6,4 @@ Created by Thomas Shaw and Yuhan Liu
 
 # [Spinning Flower](https://www.shadertoy.com/view/dlSBDd)
 
-# [Our Own Funny Flower!] (https://www.shadertoy.com/view/mtBfDd)
+# [Our Own Funny Flower!](https://www.shadertoy.com/view/mtBfDd)
