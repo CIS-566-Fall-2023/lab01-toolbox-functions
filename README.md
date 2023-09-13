@@ -2,6 +2,13 @@
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
+# Team Members
+Debby Lin (just me :) )
+
+# Link to shader toy solutions
+- https://www.shadertoy.com/view/mlBfWt
+- https://www.shadertoy.com/view/ct2BWt
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Flower Puzzle](https://www.shadertoy.com/view/NsVBzy).
