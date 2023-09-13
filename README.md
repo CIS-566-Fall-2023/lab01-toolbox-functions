@@ -2,6 +2,17 @@
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
+# Submission
+
+Team Members:
+- Utkarsh Dwivedi
+- Linda Zhu
+
+1. [Pulsing Flower](https://www.shadertoy.com/view/dlBfWt)
+2. [Spinning Flower](https://www.shadertoy.com/view/Dl2BWt)
+3. [Custom Flower 1](https://www.shadertoy.com/view/ctjfDd)
+4. [Custom Flower 2](https://www.shadertoy.com/view/mtjBWt)
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Flower Puzzle](https://www.shadertoy.com/view/NsVBzy).
