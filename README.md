@@ -1,9 +1,9 @@
 # Lab01: Toolbox Functions
 
 # My Links
-Pulsing Flower: https://www.shadertoy.com/view/DljBDt
-Spinning Flower: https://www.shadertoy.com/view/cl2fWd
-A New Flower: https://www.shadertoy.com/view/Dl2fWd
+## Pulsing Flower: https://www.shadertoy.com/view/DljBDt
+## Spinning Flower: https://www.shadertoy.com/view/cl2fWd
+## A New Flower: https://www.shadertoy.com/view/Dl2fWd
 
 ( I did not get paired and worked on my own for this lab.)
 
