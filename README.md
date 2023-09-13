@@ -3,9 +3,13 @@
 Let's practice using some tool box functions! You may work with a partner for this one.
 
 # Link
+
 Pulsing Flower: https://www.shadertoy.com/view/DljBWd
+
 Spinning Flower: https://www.shadertoy.com/view/Dt2BWd
+
 DIY Flower: https://www.shadertoy.com/view/DtjfDt
+
 (I dont have a teammate for the lab)
 
 # Setup 
