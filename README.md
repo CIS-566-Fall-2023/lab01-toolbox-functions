@@ -1,3 +1,9 @@
+Sherry Li
+Pulsing flower: https://www.shadertoy.com/view/dlBBDt
+Spinning flower: https://www.shadertoy.com/view/DtjBDt
+Custom flower: https://www.shadertoy.com/view/mljBDt
+
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
