@@ -1,5 +1,12 @@
 # Lab01: Toolbox Functions
+# Submission | Aboudi Rai
+1. [Pulsing Flower](https://www.shadertoy.com/view/dlSBWd)
 
+2. [Spinning Flower](https://www.shadertoy.com/view/cl2BWd)
+
+3. [My Flower](https://www.shadertoy.com/view/dljBWt)
+
+---
 Let's practice using some tool box functions! You may work with a partner for this one.
 
 # Setup 
