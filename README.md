@@ -2,6 +2,15 @@
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
+# Submission
+Kyra Clark & Saksham Nagpal 
+
+[Flower 1](https://www.shadertoy.com/view/dtBfDt) 
+
+[Flower 2](https://www.shadertoy.com/view/mtSBDd)
+
+[Flower 3](https://www.shadertoy.com/view/ct2fWd) 
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Flower Puzzle](https://www.shadertoy.com/view/NsVBzy).
