@@ -24,3 +24,8 @@ Do your best to replicate the following simple graphics:
 - In the README, include the names of both your team members
 - In the README, create a link to your shader toy solutions for these three prompts
 - Make sure all three of your shadertoys are set to UNLISTED or PUBLIC (so we can see them!)
+
+# Jackie Li + Amy Liu Submission
+Puzzle 1: https://www.shadertoy.com/view/mtSfDt
+Puzzle 2: https://www.shadertoy.com/view/ct2BWd
+Puzzle 3: https://www.shadertoy.com/view/DdcyRr
