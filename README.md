@@ -10,7 +10,7 @@ Link: [Flower2](https://www.shadertoy.com/view/ddcyzn)
 
 ## Part 3
 Link: [Flower3](https://www.shadertoy.com/view/mscyzn)
-![Image3](URL_FROM_ISSUE)
+![Image3](https://github.com/uluyek/lab01-toolbox-functions/blob/main/Screenshot%202023-09-13%20at%2010.58.12%20PM.png)
 
 
 Let's practice using some tool box functions! You may work with a partner for this one.
