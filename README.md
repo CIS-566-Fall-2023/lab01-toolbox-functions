@@ -6,6 +6,20 @@ Let's practice using some tool box functions! You may work with a partner for th
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Flower Puzzle](https://www.shadertoy.com/view/NsVBzy).
 
+# Team Members
+No team members.
+# Shadertoy Links
+[Puzzle1](https://www.shadertoy.com/view/mtBfDt)
+
+![1694657267498](image/README/1694657267498.gif)
+
+[Puzzle2](https://www.shadertoy.com/view/ctjfWt)
+
+![1694657256701](image/README/1694657256701.gif)
+
+[Custom](https://www.shadertoy.com/view/dscyRn#)
+
+![1694657262913](image/README/1694657262913.gif)
 # Puzzles
 
 Do your best to replicate the following simple graphics:
