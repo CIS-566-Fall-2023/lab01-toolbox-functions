@@ -1,4 +1,17 @@
 # Lab01: Toolbox Functions
+# Result
+## Part 1
+Link: [Flower1](https://www.shadertoy.com/view/ms3yzn)
+![Image1](URL_FROM_ISSUE)
+
+## Part 2
+Link: [Flower2](https://www.shadertoy.com/view/ddcyzn)
+![Image2](URL_FROM_ISSUE)
+
+## Part 3
+Link: [Flower3](https://www.shadertoy.com/view/mscyzn)
+![Image3](URL_FROM_ISSUE)
+
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
