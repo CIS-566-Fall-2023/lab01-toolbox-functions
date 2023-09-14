@@ -1,5 +1,4 @@
 # Lab01: Toolbox Functions
-## ShaderToy Lab 1
 
 1. Pulsing Flower
 - https://www.shadertoy.com/view/mtBBDd
