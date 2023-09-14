@@ -6,8 +6,9 @@ Let's practice using some tool box functions! You may work with a partner for th
 Debby Lin (just me :) )
 
 # Link to shader toy solutions
-- https://www.shadertoy.com/view/mlBfWt
-- https://www.shadertoy.com/view/ct2BWt
+- Pulsing Flower: [https://www.shadertoy.com/view/mlBfWt](https://www.shadertoy.com/view/mlBfWt)
+- Spinning Flower: [https://www.shadertoy.com/view/ct2BWt](https://www.shadertoy.com/view/ct2BWt)
+- Custom Flower: [https://www.shadertoy.com/view/ms3yRn#](https://www.shadertoy.com/view/ms3yRn#)
 
 # Setup 
 
