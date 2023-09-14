@@ -28,4 +28,4 @@ Do your best to replicate the following simple graphics:
 # Jackie Li + Amy Liu Submission
 Puzzle 1: https://www.shadertoy.com/view/mtSfDt
 Puzzle 2: https://www.shadertoy.com/view/ct2BWd
-Puzzle 3: 
+Puzzle 3: https://www.shadertoy.com/view/DdcyRr
