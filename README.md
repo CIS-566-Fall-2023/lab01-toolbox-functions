@@ -1,4 +1,4 @@
-Claire Lu, Dineth Meegoda
+Claire Lu, Dineth Meegoda 
 
 [Puzzle 1](https://www.shadertoy.com/view/mtBBWd#)
 
